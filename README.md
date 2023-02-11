@@ -1,6 +1,12 @@
 # Ysu_Py_course
 ysu_course_tracking
-https://defpython.ru/static/img/post_images/siths.png![image](https://user-images.githubusercontent.com/86608170/218256156-095c64af-687d-4edf-8216-650ab0818fb5.png)
+
+<h1 align="center">Hi there, I'm <a href="https://github.com/sampleeer/" target="_blank">Pasha</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+<h3 align="center">Py dzen</h3>
+
+https://pythonchik.ru/pic/lb1/intext_363bef0f-8f65-44a3-81ff-80a83ce37cf1_big.jpeg
 
 Красивое лучше уродливого.
 Явное лучше неявного.
