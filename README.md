@@ -3,7 +3,7 @@ ysu_course_tracking
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/sampleeer/" target="_blank">Pasha</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)]
 <h3 align="center">Py dzen</h3>
 
 https://pythonchik.ru/pic/lb1/intext_363bef0f-8f65-44a3-81ff-80a83ce37cf1_big.jpeg
