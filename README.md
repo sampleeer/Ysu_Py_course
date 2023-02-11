@@ -2,7 +2,6 @@
 ysu_course_tracking
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=212EF7&width=435&lines=Hi+there%2C+I'm+Pasha+" alt="Typing SVG" /></a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=212EF7&width=435&lines=computer+science+student" alt="Typing SVG" /></a>
 
 
