@@ -1,0 +1,13 @@
+{
+    "name": "dgdfg",
+    "position": "dsfgs",
+    "salary": 568900,
+    "subordinates":
+    [
+        {
+        "name": "dgdfsg",
+        "position": "dsfsgs",
+        "salary": 568901
+        }
+    ]
+}
