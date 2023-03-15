@@ -71,5 +71,5 @@ while(step):
     step -= 1
 
 turtle.update()
-print("The end!!")
+print("The end!")
 myScreen.exitonclick()
