@@ -42,6 +42,13 @@ class Complex:
         phi = atan2(self.im, self.re)
         return f'{abs(self):0.4f}(cos({phi:0.4f}) + i*sin({phi:0.4f}) )'
 
+    # Joy Division ))))))))))))
+    def division(self, other: 'Complex') -> 'Complex':
+        return Complex((self.re * other.re + self.im * other.im)
+                       // (other.im * other.im + other.re * other.re),
+                       (self.im * other.re - self.re * other.im) //
+                       (other.im * other.im + other.re * other.re))
+
 
 class PComplex(Complex):
     def __mul__(self, other: 'PComplex') -> 'PComplex':
@@ -117,4 +124,4 @@ a = Complex(1, 2)
 b = Complex(3, 4)
 c = Bicomplex(a, b)
 d = Bicomplex(a, b)
-print(c.exponencial())
+print(Complex.division(a, b))
