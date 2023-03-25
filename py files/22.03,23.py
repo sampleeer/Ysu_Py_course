@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+from dataclasses import dataclass, InitVar
 from typing import Optional
 from enum import Enum
 
@@ -47,5 +47,11 @@ class PublicVehicle:
         else:
             print("Can't assign this route")
 
+    def __post_init__(self):
+        if self.transport_type == TransportType.TAXIBUS:
+            self.is_benefit_available = False
 
-# public_vehiclel = PublicVehicle(50, TransportType.BUS, '123', 'SuperTransport Ltd.', license_plate='A001AA76')
+
+# public_vehiclel = PublicVehicle(50, TransportType.BUS, '123',
+# 'SuperTransport Ltd.', license_plate='A001AA76')
+
