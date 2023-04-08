@@ -33,4 +33,5 @@ class DAGRun:
         self.execution_manager = execution_manager
 
     def tick(self):
-        if self.execution_manager
+        if self.execution_manager:
+            print(1)
